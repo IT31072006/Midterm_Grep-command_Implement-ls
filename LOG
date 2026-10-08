@@ -1,0 +1,5 @@
+commit 45a3db702bc9e92614647ccb65236c0e236a4631
+Author: IT31072006 <phamhuynhquan310706@gmail.com~>
+Date:   Thu Oct 8 15:14:30 2026 +0700
+
+    Initial commit: Implement ls command with -a -l -i options

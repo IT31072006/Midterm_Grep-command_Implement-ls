@@ -1,0 +1,5 @@
+[x] Split code into multiple files
+[x] Use proper header files
+[x] Include a Makefile
+[x] Include a README
+[x] Use Git for version control

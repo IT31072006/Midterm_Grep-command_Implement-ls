@@ -1,0 +1,8 @@
+This is a C implementation of the ls(1) command.
+Supported options:
+-a : Include directory entries whose names begin with a dot (.).
+-l : List in long format.
+-i : Print the file's file serial number (inode number).
+
+Tested on Linux using standard C libraries (dirent.h, sys/stat.h).
+Run 'make' to compile, then run './myls -l -a -i'.
